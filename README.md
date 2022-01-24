@@ -5,4 +5,4 @@
 #
 # day_1.js was my attempt to improve upon 
 #
-#i have also included all files before i created teh final handin files in 'errk 1 practice'
+# I have also included all files before i created teh final handin files in 'errk 1 practice'
